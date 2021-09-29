@@ -1,0 +1,26 @@
+{
+  "name": "frontend_car3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigocdfidencio/frontend_car3d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigocdfidencio/frontend_car3d/issues"
+  },
+  "homepage": "https://github.com/rodrigocdfidencio/frontend_car3d#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "require": "^2.4.20"
+  }
+}

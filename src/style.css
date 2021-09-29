@@ -1,0 +1,48 @@
+* {
+	padding:0;
+	margin:0;
+	vertical-align:baseline;
+	list-style:none;
+	border:0
+	}
+
+#map {
+	height: 400px;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+
+#header {
+	background-color: #32325D;
+    top:0;
+	padding: 20px 0px;
+	color: white;
+	text-align: center;
+	height: 100px;
+    width:100%;
+}
+
+#footer {
+	background-color: #32325D;
+	font-size: 12px;
+	padding: 20px 0px;
+	text-align: center;
+	color: white;
+	position: fixed;
+    bottom:0;
+	height: 80px;
+    width:100%;
+}
+
+#route-label {
+	font-weight: bold;
+	color: black;
+	margin: 10px 0px;
+}
+
+section {
+	margin: 20px;
+}
