@@ -21,6 +21,8 @@
   "homepage": "https://github.com/rodrigocdfidencio/frontend_car3d#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
     "require": "^2.4.20"
   }
 }
