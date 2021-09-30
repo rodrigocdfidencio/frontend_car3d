@@ -7,7 +7,7 @@ section {
 }
 
 #map {
-  height: 400px;
+  height: 440px;
   margin: 10px;
 }
 
@@ -29,6 +29,8 @@ section {
 .footer {
   background: #152F4F;
   color: white;
+  position: relative;
+  bottom: 0;
 }
 
 .footer .links ul {
